@@ -2,6 +2,10 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/Bunker
+Content/ScienceLab
+Content/StarterContent
+Content/Packed
 .vscode
 .vs
 *.VC.db
