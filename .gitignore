@@ -6,6 +6,9 @@ Content/Bunker
 Content/ScienceLab
 Content/StarterContent
 Content/Packed
+Content/__ExternalActors__
+Build
+Builds
 .vscode
 .vs
 *.VC.db
